@@ -62,7 +62,7 @@ The objective is to identify key insights and opportunities for optimization usi
 
 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://github.com/Mr-ShadowElite/EXCEL_PROJECT_1/blob/main/IMAGES/Dashboard_Screenshot.png)
+![Dashboard Preview](https://github.com/Mr-ShadowElite/EXCEL-PROJECTS/blob/main/EXCEL-PROJECT-1/IMAGES/Dashboard_Screenshot.png)
 
 ## 🛠️ Skills Applied
 - Data Cleaning and Transformation
